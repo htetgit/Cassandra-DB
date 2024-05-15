@@ -86,6 +86,7 @@ Operation directory: /root/logs/LOAD_20240515-030343-316440
 [driver] /172.17.0.4:9042 did not send an authentication challenge; This is suspicious because the driver expects authentication
 [driver] /172.17.0.4:9042 did not send an authentication challenge; This is suspicious because the driver expects authentication
 
+total | failed | rows/s | p50ms | p99ms | p999ms | batches
    10 |      0 |     11 | 21.11 | 37.49 |  37.49 |    1.00
 Operation LOAD_20240515-030343-316440 completed successfully in less than one second.
 Last processed positions can be found in positions.txt
