@@ -91,6 +91,7 @@ total | failed | rows/s | p50ms | p99ms | p999ms | batches
 Operation LOAD_20240515-030343-316440 completed successfully in less than one second.
 Last processed positions can be found in positions.txt
 -------------------------
+To Install dsbulk
 echo "dsbulk Installation"
 cd /root
 curl -OL https://downloads.datastax.com/dsbulk/dsbulk-1.7.0.tar.gz
