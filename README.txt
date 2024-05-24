@@ -105,7 +105,7 @@ dsbulk --version
 To install cassandra driver
 $npm install cassandra-driver or $npm install -g cassandra-driver
 check install or not
-$npm list cassandrdriver or $npm list -g cassandra-driver
+$npm list cassandr-driver or $npm list -g cassandra-driver
 ------------------------------------
 To Create Cassandra database's username and password
 
